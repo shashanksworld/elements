@@ -10,7 +10,6 @@ import java.util.Queue;
 
 public class SimpleQueue<E> extends LinkedList<E>  {
 	
-	
 	@Override
 	public boolean addAll(Collection arg0) {
 		// TODO Auto-generated method stub
