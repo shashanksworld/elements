@@ -7,3 +7,5 @@ Elements
 #Fibonacci
 #Recursion
 #Queue
+#Binary Search
+#Palindrome 
